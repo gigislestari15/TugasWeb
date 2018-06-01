@@ -1,0 +1,4 @@
+login 
+user = admin
+password = admin
+akses localhost/TugasWeb/Admin
